@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyChatGPT</string>
+    <string name="dialog_msg">Please wait...</string>
+</resources>
